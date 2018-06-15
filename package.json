@@ -1,0 +1,15 @@
+{
+  "name":         "NullAddon",
+  "version":      "0.1",
+  "description":  "Eerie package example.",
+  "author":       "Samuel A. Falvo II",
+  "website":      "http://iolanguage.org/",
+  "readme":       "README.md",
+  "protos":       ["NullAddon"],
+  "dependencies": {
+    "libs":     [],
+    "headers":  [],
+    "protos":   [],
+    "packages": []
+  }
+}
